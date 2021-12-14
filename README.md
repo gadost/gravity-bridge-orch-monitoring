@@ -1,4 +1,9 @@
 
+grok_exporter config & pattern
+
+```
+https://github.com/fstab/grok_exporter/
+```
 
 ## Grafana panel
 ```
